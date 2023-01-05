@@ -1,0 +1,14 @@
+.header {
+    max-height: 100%;
+}
+
+.header img {
+    height: 100%;
+    width: 100%;
+}
+
+.container {
+    width: 80%;
+
+    margin: auto;
+}
